@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Moses, a Full-stack Developer 
 
 <div>    
-  <img alt="GIF" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <img align="right" src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" width="200" height="200"> 
+ <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="250"/>
 </div>
 
 ### 👨🏻‍💻 About Me
