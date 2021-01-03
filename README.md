@@ -1,13 +1,5 @@
 ### Hi there 👋 I'm Moses, a Full-stack Developer 
 
-<div>    
- <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="250"/>
-</div>
-
-### 👨🏻‍💻 About Me
-
-<br>
-  
 ```javascript
 const MOSES = {
     code: ["Javascript", "Ruby", "Python"],
@@ -28,10 +20,7 @@ const MOSES = {
 };
 ```
 
-<br>
-
 ## My Tech Stack
-
   
   <br>
 
